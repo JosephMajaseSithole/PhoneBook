@@ -1,0 +1,9 @@
+.phoneBookTitle {
+    text-align: center;
+    background-color: grey;
+}
+
+.verticalLine {
+    border-left: 2px solid grey;
+    height: 600px;
+  }

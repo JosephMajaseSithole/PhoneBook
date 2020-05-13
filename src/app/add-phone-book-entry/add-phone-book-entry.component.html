@@ -1,0 +1,19 @@
+<div>
+    <form #addEntryForm="ngForm" (ngSubmit)="onSubmit(addEntryForm.value, $event)">
+        <div class="form-group">
+          <label for="Name">Entry Name</label>
+          <input type="text" class="form-control" id="Name" name="Name">
+        </div>
+        <div class="form-group">
+          <label for="PhoneNumber">Phone Number</label>
+          <input type="text" class="form-control" name="PhoneNumber" id="PhoneNumber">
+        </div>
+        <div class="form-group">
+          <div class="row">
+            <div class="col-md-12" style="text-align: center;">
+              <button type="submit" class="btn btn-primary">Add Phonebook Entry</button>
+            </div>
+          </div>
+        </div>
+      </form>
+</div>

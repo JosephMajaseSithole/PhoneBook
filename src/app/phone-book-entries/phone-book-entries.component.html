@@ -1,0 +1,34 @@
+<div>
+
+<div class="row">
+   
+    <div class="col-md-3" style="text-align: right;">
+        <strong>Search Entry</strong>
+    </div>
+    <div class="col-md-6">
+        <input type="text" style="width: 100%;" class="form-control" name="entrySearch" [(ngModel)]="entrySearch" />
+    </div>
+    <div class="col-md-3">
+        <button type="button" (click)="onSearch()" class="btn btn-primary">Search</button>
+    </div>
+
+</div>
+
+<div class="row">
+    <div class="col-md-12" style="text-align: center;">
+        <div *ngIf="phonebookEntries !== undefined">
+            <table>
+                <tr *ngFor="let entry of phonebookEntries">
+                    <td>{{ entry.name }}</td>
+                    <td>{{ entry.phoneNumber}}</td>
+                </tr>
+            </table>
+        </div>
+    
+        <div *ngIf="phonebookEntries == undefined">
+            <strong style="color: red">NO PHONE BOOK ENTRIES</strong>
+        </div>
+    </div>
+</div>
+
+</div>
