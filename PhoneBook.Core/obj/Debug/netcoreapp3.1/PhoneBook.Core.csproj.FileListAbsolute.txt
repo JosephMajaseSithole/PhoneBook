@@ -1,0 +1,9 @@
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Core\bin\Debug\netcoreapp3.1\PhoneBook.Core.deps.json
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Core\bin\Debug\netcoreapp3.1\PhoneBook.Core.dll
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Core\bin\Debug\netcoreapp3.1\PhoneBook.Core.pdb
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Core\obj\Debug\netcoreapp3.1\PhoneBook.Core.csproj.CoreCompileInputs.cache
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Core\obj\Debug\netcoreapp3.1\PhoneBook.Core.AssemblyInfoInputs.cache
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Core\obj\Debug\netcoreapp3.1\PhoneBook.Core.AssemblyInfo.cs
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Core\obj\Debug\netcoreapp3.1\PhoneBook.Core.dll
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Core\obj\Debug\netcoreapp3.1\PhoneBook.Core.pdb
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Core\obj\Debug\netcoreapp3.1\PhoneBook.Core.csprojAssemblyReference.cache

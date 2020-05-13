@@ -1,0 +1,14 @@
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Repository\bin\Debug\netcoreapp3.1\PhoneBook.Repository.deps.json
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Repository\bin\Debug\netcoreapp3.1\PhoneBook.Repository.dll
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Repository\bin\Debug\netcoreapp3.1\PhoneBook.Repository.pdb
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Repository\bin\Debug\netcoreapp3.1\PhoneBook.Core.dll
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Repository\bin\Debug\netcoreapp3.1\PhoneBook.DbLayer.dll
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Repository\bin\Debug\netcoreapp3.1\PhoneBook.Core.pdb
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Repository\bin\Debug\netcoreapp3.1\PhoneBook.DbLayer.pdb
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Repository\obj\Debug\netcoreapp3.1\PhoneBook.Repository.csprojAssemblyReference.cache
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Repository\obj\Debug\netcoreapp3.1\PhoneBook.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Repository\obj\Debug\netcoreapp3.1\PhoneBook.Repository.AssemblyInfoInputs.cache
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Repository\obj\Debug\netcoreapp3.1\PhoneBook.Repository.AssemblyInfo.cs
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Repository\obj\Debug\netcoreapp3.1\PhoneBook.Repository.csproj.CopyComplete
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Repository\obj\Debug\netcoreapp3.1\PhoneBook.Repository.dll
+C:\Users\Majase\Desktop\PhoneBook\PhoneBookAPI\PhoneBookAPI\PhoneBook.Repository\obj\Debug\netcoreapp3.1\PhoneBook.Repository.pdb
